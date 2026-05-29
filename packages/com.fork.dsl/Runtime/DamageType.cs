@@ -1,0 +1,9 @@
+namespace MobaDSL.Runtime
+{
+    public enum DamageType
+    {
+        Physical = 0,
+        Magical = 1,
+        True = 2
+    }
+}

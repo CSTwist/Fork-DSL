@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.fork.dsl": "file:../../packages/com.fork.dsl",
+    "com.unity.modules.ui": "1.0.0"
+  }
+}
